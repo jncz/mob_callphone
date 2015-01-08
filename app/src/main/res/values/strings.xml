@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_id">com.example.liping.quickdial</string>
+    <string name="app_name">Quick Dial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">New Number</string>
+    <string name="abc">New CheckBox</string>
+    <string name="NewNumber">Add New Number</string>
+    <string name="reset">reset</string>
+    <string name="save">save</string>
+    <string name="dialog_message">Exceed max number size</string>
+    <string name="dialog_title">Exceed warning</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_phone_error">error on editing phone info</string>
+    <string name="del">Delete</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NewNumber">Add New Number</string>
+    <string name="reset">reset</string>
+    <string name="save">save</string>
+</resources>
